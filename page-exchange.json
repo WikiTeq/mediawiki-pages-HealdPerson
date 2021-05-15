@@ -51,10 +51,7 @@
                 }
             ],
             "requiredExtensions": [
-                "SemanticMediawiki",
-                "https://github.com/WikiTeq/mediawiki-pages-ExternalLink",
-                "https://github.com/WikiTeq/mediawiki-pages-Dates",
-                "https://github.com/WikiTeq/mediawiki-pages-Geolocation"
+                "SemanticMediawiki"
             ]
         }
     }
