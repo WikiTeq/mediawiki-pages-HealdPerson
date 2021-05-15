@@ -5,7 +5,7 @@ Provides a collection of wiki pages for easy inclusion of Person fields and sema
 # Requirements
 
 * MediaWiki 1.30+
-* SemanticMediawiki
+* SemanticMediaWiki
 * PageForms or PageExchange
 * https://github.com/WikiTeq/mediawiki-pages-ExternalLink
 * https://github.com/WikiTeq/mediawiki-pages-Dates
