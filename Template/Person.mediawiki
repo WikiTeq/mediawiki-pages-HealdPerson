@@ -35,4 +35,4 @@
 {{{Other resources|}}}
 
 [[Category:People]]
-</includeonly>
+</includeonly><noinclude>[[Category:Mediawiki-pages-HealdPerson]]</noinclude>
