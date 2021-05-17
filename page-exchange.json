@@ -46,7 +46,14 @@
                 }
             ],
             "requiredExtensions": [
+                "SemanticMediaWiki",
                 "PageForms"
+            ],
+             "requiredPackages": [
+                "ExternalLink",
+                "DateStructure",
+                "Geolocation",
+                "AllowedValues"
             ]
         }
     }
