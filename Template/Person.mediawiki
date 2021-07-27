@@ -1,4 +1,6 @@
 <includeonly>
+== Overview ==
+<div class="heald-infobox mb-3">
 {{#if: {{{Alternate names|}}}
   |<p>'''Alternate names:''' {{#arraymap:{{{Alternate names|}}}|;|x|[[Alternate name::x]]}}</p>
 }}<!--
@@ -48,6 +50,6 @@
    }}
 
 [[:Special:ExportRDF/{{PAGENAME}}|Export as RDF]]
-
+</div>
 [[Category:People]]
 </includeonly><noinclude>[[Category:Mediawiki-pages-HealdPerson]]</noinclude>
