@@ -5,7 +5,7 @@
     "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-HealdPerson",
     "packages": {
         "HEALDPerson": {
-            "globalID": "HEALDPerson",
+            "globalID": "com.wikiteq.HealdPerson",
             "description": "Provides a collection of wiki pages for easy inclusion of Person fields and semantics in Mediawiki projects (HEALD wiki).",
             "version": "0.1",
             "pages": [
